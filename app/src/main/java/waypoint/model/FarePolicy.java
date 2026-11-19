@@ -6,3 +6,4 @@ import java.time.Instant;
 public interface FarePolicy {
     Money fareFor(Instant entry, Instant exit, SpotId spot);
 }
+

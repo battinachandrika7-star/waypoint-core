@@ -28,3 +28,4 @@ record VehicleId(String value) {
         }
     }
 }
+

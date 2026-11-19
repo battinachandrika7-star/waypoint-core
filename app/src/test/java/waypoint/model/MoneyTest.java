@@ -44,3 +44,4 @@ class MoneyTest {
         assertEquals(Money.rupees(10), a);
     }
 }
+

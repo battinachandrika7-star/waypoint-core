@@ -45,3 +45,4 @@ class TicketTest {
                 .noneMatch(method -> method.getName().startsWith("set")));
     }
 }
+

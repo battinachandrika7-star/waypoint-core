@@ -16,3 +16,4 @@ public record Registration(String value) {
         }
     }
 }
+

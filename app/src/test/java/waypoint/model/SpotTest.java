@@ -30,3 +30,4 @@ class SpotTest {
         assertEquals(a, b, "an entity stays the same entity when its state changes");
     }
 }
+

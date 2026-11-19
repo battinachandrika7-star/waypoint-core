@@ -90,3 +90,4 @@ class TicketAlreadyClosed extends RuntimeException {
         super(message);
     }
 }
+
